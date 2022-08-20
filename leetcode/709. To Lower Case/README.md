@@ -13,7 +13,7 @@ Input: s = "here"
 Output: "here"
 ```
 
-## Example 2:
+## Example 3:
 ```
 Input: s = "LOVELY"
 Output: "lovely"
