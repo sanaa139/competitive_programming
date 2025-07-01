@@ -1,4 +1,4 @@
-package MaximumDifferenceBetweenIncreasingElements2016;
+package MaximumDifferenceBetweenIncreasingElements_2016;
 
 class Solution {
     public static void main(String[] args) {
